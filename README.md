@@ -10,7 +10,7 @@
 
 ---
 
-## 🚀 Overview
+##  Overview
 
 This toolkit provides an enterprise migration path with zero data loss and minimal cutover downtime for large-scale enterprise data ecosystems (e.g. Retail, Financial services).
 
@@ -22,7 +22,7 @@ This toolkit provides an enterprise migration path with zero data loss and minim
 
 ---
 
-## 📁 Repository Structure
+##  Repository Structure
 
 ```
 ├── terraform/
@@ -42,7 +42,7 @@ This toolkit provides an enterprise migration path with zero data loss and minim
 
 ---
 
-## 🛠️ Getting Started
+##  Getting Started
 
 ### 1. Prerequisites
 - Terraform `>= 1.6`
@@ -68,5 +68,5 @@ python scripts/cutover_validator.py \
 
 ---
 
-## 📜 License
+##  License
 MIT License - Copyright (c) 2025-2026 Rennan Simões.
